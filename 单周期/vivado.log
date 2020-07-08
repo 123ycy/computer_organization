@@ -1,0 +1,43 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Jan  3 21:34:54 2020
+# Process ID: 10208
+# Current directory: C:/Users/ycy大帅比/Desktop/计组/单周期
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13072 C:\Users\ycy大帅比\Desktop\计组\单周期\project_1.xpr
+# Log file: C:/Users/ycy大帅比/Desktop/计组/单周期/vivado.log
+# Journal file: C:/Users/ycy大帅比/Desktop/计组/单周期\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.xpr
+INFO: [Project 1-313] Project file moved from 'D:/cpu/project_1' since last save.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/ADDSUB_32.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/ADDSUB_32.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/ALU.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/ALU.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/CLA_32.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/CLA_32.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/CLA_4.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/CLA_4.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/CONUNIT.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/CONUNIT.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/DATAMEM.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/DATAMEM.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/EXT16T32.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/EXT16T32.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/INSTMEM.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/INSTMEM.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/MUX2X32.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/MUX2X32.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/MUX2X5.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/MUX2X5.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/MUX4X32.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/MUX4X32.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/PC.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/PC.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/REGFILE.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/REGFILE.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/CPU.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/CPU.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sources_1/new/shift.v'; using path 'D:/cpu/project_1/project_1.srcs/sources_1/new/shift.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sim_1/new/test_CPU.v'; using path 'D:/cpu/project_1/project_1.srcs/sim_1/new/test_CPU.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sim_1/new/test_ALU.v'; using path 'D:/cpu/project_1/project_1.srcs/sim_1/new/test_ALU.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sim_1/new/test_DATAMEM.v'; using path 'D:/cpu/project_1/project_1.srcs/sim_1/new/test_DATAMEM.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sim_1/new/test_INSTMEN.v'; using path 'D:/cpu/project_1/project_1.srcs/sim_1/new/test_INSTMEN.v' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.srcs/sim_1/new/test_REGFILE.v'; using path 'D:/cpu/project_1/project_1.srcs/sim_1/new/test_REGFILE.v' instead.
+Scanning sources...
+Finished scanning sources
+INFO: [filemgmt 56-1] IPUserFilesDir: Directory not found as 'C:/Users/ycy大帅比/Desktop/计组/单周期/project_1.ip_user_files'; using path 'D:/cpu/project_1/project_1.ip_user_files' instead.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/computer/Vivado/2017.4/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Jan  3 21:35:26 2020...
